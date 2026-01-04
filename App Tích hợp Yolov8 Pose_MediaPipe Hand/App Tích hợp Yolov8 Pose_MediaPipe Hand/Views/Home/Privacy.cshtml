@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Chính sách Quyền riêng tư";
+}
+
+<div class="container py-5">
+    <div class="card shadow-sm border-0 p-4">
+        <h1 class="text-primary mb-4"><i class="fas fa-user-shield me-2"></i>@ViewData["Title"]</h1>
+
+        <p class="lead">Ứng dụng AI Gesture Control cam kết bảo vệ quyền riêng tư và dữ liệu cá nhân của bạn.</p>
+
+        <div class="row mt-4">
+            <div class="col-md-6 mb-4">
+                <div class="p-3 border-start border-primary border-4 bg-light">
+                    <h5><i class="fas fa-camera text-primary me-2"></i>Sử dụng Camera</h5>
+                    <p class="text-muted">Ứng dụng yêu cầu quyền truy cập Camera chỉ để nhận diện cử chỉ thông qua các mô hình AI (YOLOv8 và MediaPipe). Hình ảnh không được lưu trữ dưới bất kỳ hình thức nào.</p>
+                </div>
+            </div>
+
+        <div class="alert alert-info mt-3">
+            <strong>Thông báo:</strong> Bằng cách sử dụng các mô hình AI của chúng tôi, bạn đồng ý với việc cho phép hệ thống phân tích cử chỉ của mình để phục vụ mục đích điều khiển.
+        </div>
+    </div>
+</div>

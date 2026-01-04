@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\yolopose.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\yolopose.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\mediapipehand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\home\\mediapipehand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|e:\\work\\works\\th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0111\u1ED3 \u00E1n\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B54A51C-B486-4CAC-8E28-321EFB135047}|App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand.csproj|solutionrelative:app t\u00EDch h\u1EE3p yolov8 pose_mediapipe hand\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T09:37:00.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Program.cs",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Program.cs",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Program.cs",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:35:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\appsettings.json",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\appsettings.json",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\appsettings.json",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T09:35:43.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T09:35:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T09:20:51.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediapipeHand.cshtml",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\MediapipeHand.cshtml",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\MediapipeHand.cshtml",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\MediapipeHand.cshtml",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\MediapipeHand.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwIcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T09:13:29.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoloPose.cshtml",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\YoloPose.cshtml",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\YoloPose.cshtml",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\YoloPose.cshtml",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\YoloPose.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwHkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T09:12:58.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAHEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T09:11:56.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:11:26.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Work\\Works\\Th\u1EF1c t\u1EADp ngh\u1EC1 nghi\u1EC7p 1\\\u0110\u1ED3 \u00E1n\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "App T\u00EDch h\u1EE3p Yolov8 Pose_MediaPipe Hand\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T09:34:41.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "App Tích hợp Yolov8 Pose_MediaPipe Hand/1.0.0": {
+        "runtime": {
+          "App Tích hợp Yolov8 Pose_MediaPipe Hand.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App Tích hợp Yolov8 Pose_MediaPipe Hand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

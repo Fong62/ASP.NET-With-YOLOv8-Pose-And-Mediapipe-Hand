@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\App Tích hợp Yolov8 Pose_MediaPipe Hand.props" />
+</Project>

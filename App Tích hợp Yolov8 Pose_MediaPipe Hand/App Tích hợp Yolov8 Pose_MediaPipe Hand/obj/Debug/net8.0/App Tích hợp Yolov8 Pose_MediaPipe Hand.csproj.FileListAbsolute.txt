@@ -1,0 +1,34 @@
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\appsettings.Development.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\appsettings.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.staticwebassets.runtime.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.staticwebassets.endpoints.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.exe
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.deps.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.runtimeconfig.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.dll
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\bin\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.pdb
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.AssemblyInfoInputs.cache
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.AssemblyInfo.cs
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.csproj.CoreCompileInputs.cache
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.RazorAssemblyInfo.cache
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.RazorAssemblyInfo.cs
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\scopedcss\bundle\App Tích hợp Yolov8 Pose_MediaPipe Hand.styles.css
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\scopedcss\projectbundle\App Tích hợp Yolov8 Pose_MediaPipe Hand.bundle.scp.css
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets.build.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets.development.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets\msbuild.App Tích hợp Yolov8 Pose_MediaPipe Hand.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets\msbuild.App Tích hợp Yolov8 Pose_MediaPipe Hand.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets\msbuild.build.App Tích hợp Yolov8 Pose_MediaPipe Hand.props
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App Tích hợp Yolov8 Pose_MediaPipe Hand.props
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App Tích hợp Yolov8 Pose_MediaPipe Hand.props
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.dll
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\refint\App Tích hợp Yolov8 Pose_MediaPipe Hand.dll
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.pdb
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\App Tích hợp Yolov8 Pose_MediaPipe Hand.genruntimeconfig.cache
+E:\Work\Works\Thực tập nghề nghiệp 1\Đồ án\App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand\obj\Debug\net8.0\ref\App Tích hợp Yolov8 Pose_MediaPipe Hand.dll

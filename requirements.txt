@@ -1,0 +1,9 @@
+flask
+opencv-python
+cvzone
+ultralytics
+mediapipe
+numpy
+torch
+torchvision
+torchaudio

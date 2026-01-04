@@ -1,0 +1,136 @@
+﻿@{
+    ViewData["Title"] = "Mediapipe Hand Tracking Control";
+}
+
+<style>
+    body {
+        background: #f0f2f5;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .stream-container {
+        max-width: 900px;
+        margin: 20px auto;
+    }
+
+    .video-card {
+        border: none;
+        border-radius: 24px;
+        background: #ffffff;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        overflow: hidden;
+    }
+
+    .video-header {
+        background: linear-gradient(135deg, #dc3545 0%, #a71d2a 100%);
+        padding: 18px 25px;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .video-wrapper {
+        position: relative;
+        padding: 15px;
+        background: #121212; /* Nền tối sâu hơn */
+        border-radius: 0 0 24px 24px;
+    }
+
+    .video-stream {
+        width: 100%;
+        border-radius: 12px;
+        /* Thêm hiệu ứng Glow nhẹ để giống app AI */
+        box-shadow: 0 0 15px rgba(220, 53, 69, 0.3);
+        border: 1px solid #333;
+        display: block;
+    }
+
+    .btn-back {
+        background: #fff;
+        color: #333;
+        border-radius: 12px;
+        padding: 8px 20px;
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+        transition: 0.3s;
+    }
+
+        .btn-back:hover {
+            background: #333;
+            color: #fff;
+            transform: translateX(-5px);
+        }
+
+    .status-dot {
+        height: 10px;
+        width: 10px;
+        background-color: #28a745;
+        border-radius: 50%;
+        display: inline-block;
+        margin-right: 8px;
+        animation: blink 1.5s infinite;
+    }
+
+    @@keyframes blink {
+        0%, 100% {
+            opacity: 1;
+        }
+
+        50% {
+            opacity: 0.3;
+        }
+    }
+</style>
+
+<div class="container py-4 stream-container animate__animated animate__fadeIn">
+    <a asp-action="Index" class="btn-back">
+        <i class="fas fa-chevron-left me-2"></i> Dashboard
+    </a>
+
+    <div class="card video-card shadow-lg">
+        <div class="video-header">
+            <h5 class="m-0 fw-bold">
+                <span class="status-dot"></span>
+                <i class="fas fa-hand-paper me-2"></i> MediaPipe Hand Analysis
+            </h5>
+            <span class="badge bg-white text-danger fw-bold shadow-sm">ACTIVE</span>
+        </div>
+
+        <div class="video-wrapper">
+            <img src="http://localhost:5000/video_hand"
+                 alt="Camera Stream"
+                 class="video-stream"
+                 onerror="this.src='https://placehold.co/640x480/1a1a1a/dc3545?text=DANG+KET+NOI+SERVER...';" />
+
+            <div class="text-center mt-3 text-white-50">
+                <small><i class="fas fa-keyboard me-2"></i> Server đang mô phỏng phím: Space, Up, Down, Left, Right</small>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4 g-3">
+        <div class="col-md-4">
+            <div class="p-3 bg-white rounded-4 shadow-sm border-bottom border-danger border-3">
+                <div class="text-danger fw-bold mb-1"><i class="fas fa-fist-raised me-2"></i>Skill</div>
+                <p class="small text-muted m-0">Nắm tay để nhấn phím <b>Space</b></p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="p-3 bg-white rounded-4 shadow-sm border-bottom border-danger border-3">
+                <div class="text-danger fw-bold mb-1"><i class="fas fa-arrows-alt me-2"></i>Di chuyển</div>
+                <p class="small text-muted m-0">Đưa tay lên/xuống/trái/phải để điều hướng</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="p-3 bg-white rounded-4 shadow-sm border-bottom border-danger border-3">
+                <div class="text-danger fw-bold mb-1"><i class="fas fa-info-circle me-2"></i>Trạng thái</div>
+                <p class="small text-muted m-0">Xem nhãn (Label) hiển thị trực tiếp trên video</p>
+            </div>
+        </div>
+    </div>
+</div>

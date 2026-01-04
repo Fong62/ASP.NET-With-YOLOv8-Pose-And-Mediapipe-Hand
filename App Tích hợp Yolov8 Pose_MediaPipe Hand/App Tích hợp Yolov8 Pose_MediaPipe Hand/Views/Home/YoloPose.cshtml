@@ -1,0 +1,151 @@
+﻿@{
+    ViewData["Title"] = "YOLOv8 Pose Tracking Control";
+}
+
+<style>
+    body {
+        background: #f8f9fa;
+    }
+
+    .stream-container {
+        max-width: 1100px; /* Rộng hơn để phù hợp với stackImages (2 màn hình) */
+        margin: 20px auto;
+    }
+
+    /* Hiệu ứng Modern Card cho YOLO */
+    .video-card {
+        border: none;
+        border-radius: 24px;
+        background: #ffffff;
+        box-shadow: 0 15px 35px rgba(13, 110, 253, 0.1);
+        overflow: hidden;
+    }
+
+    .video-header {
+        background: linear-gradient(135deg, #0d6efd 0%, #0a58ca 100%);
+        padding: 18px 25px;
+        color: white;
+        border: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    /* Wrapper tối ưu cho khung hình kép từ app.py */
+    .video-wrapper {
+        position: relative;
+        padding: 20px;
+        background: #121212;
+        border-radius: 0 0 24px 24px;
+        text-align: center;
+    }
+
+    .video-stream {
+        width: 100%;
+        max-width: 1000px; /* Tăng kích thước hiển thị */
+        border-radius: 8px;
+        box-shadow: 0 0 30px rgba(0,0,0,0.5);
+        border: 1px solid #444;
+        transition: all 0.5s;
+    }
+
+    /* Nút quay lại */
+    .btn-back {
+        background: #fff;
+        color: #0d6efd;
+        border-radius: 12px;
+        padding: 10px 22px;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.3s;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        display: inline-flex;
+        align-items: center;
+        margin-bottom: 20px;
+        border: 1px solid #e0e0e0;
+    }
+
+        .btn-back:hover {
+            background: #0d6efd;
+            color: #fff;
+            transform: translateX(-5px);
+        }
+
+    /* Đèn tín hiệu màu xanh dương */
+    .status-dot {
+        height: 12px;
+        width: 12px;
+        background-color: #00f2ff;
+        border-radius: 50%;
+        display: inline-block;
+        margin-right: 10px;
+        animation: pulse-blue 1.5s infinite;
+        box-shadow: 0 0 8px #00f2ff;
+    }
+
+    @@keyframes pulse-blue {
+        0% {
+            transform: scale(0.95);
+            box-shadow: 0 0 0 0 rgba(0, 242, 255, 0.7);
+        }
+
+        70% {
+            transform: scale(1);
+            box-shadow: 0 0 0 10px rgba(0, 242, 255, 0);
+        }
+
+        100% {
+            transform: scale(0.95);
+            box-shadow: 0 0 0 0 rgba(0, 242, 255, 0);
+        }
+    }
+</style>
+
+<div class="container py-4 stream-container animate__animated animate__zoomIn">
+    <a asp-action="Index" class="btn-back">
+        <i class="fas fa-arrow-left me-2"></i> Trở về Dashboard
+    </a>
+
+    <div class="card video-card">
+        <div class="video-header">
+            <h5 class="m-0 fw-bold">
+                <span class="status-dot"></span>
+                <i class="fas fa-user-ninja me-2"></i> SYSTEM: YOLOv8 Human Pose Analysis
+            </h5>
+            <div class="d-flex gap-2">
+                <span class="badge rounded-pill bg-dark">GPU Acceleration</span>
+                <span class="badge rounded-pill bg-info text-dark">Dual View</span>
+            </div>
+        </div>
+
+        <div class="video-wrapper">
+            <img src="http://localhost:5000/video_pose"
+                 alt="Pose Stream"
+                 class="video-stream"
+                 onerror="this.src='https://placehold.co/1280x720/1a1a1a/ffffff?text=Waiting+for+AI+Server...'; " />
+
+            <div class="mt-3 d-flex justify-content-center gap-4 text-white-50">
+                <small><i class="fas fa-bullseye me-1 text-info"></i> Origin: Center</small>
+                <small><i class="fas fa-vector-square me-1 text-info"></i> Radius: 50px</small>
+                <small><i class="fas fa-keyboard me-1 text-info"></i> Action: Virtual Keys</small>
+            </div>
+        </div>
+    </div>
+
+    <div class="card mt-4 border-0 shadow-sm rounded-4">
+        <div class="card-body p-4">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h6 class="fw-bold text-primary mb-2">Hướng dẫn điều khiển:</h6>
+                    <p class="text-muted small mb-0">Hệ thống sẽ tự động lấy điểm mũi (Nose) làm tâm. Di chuyển cơ thể để đưa mũi ra khỏi vòng tròn vàng để thực hiện các phím mũi tên. Vị trí tâm sẽ tự cập nhật mỗi 0.6 giây để thích nghi với vị trí ngồi của bạn.</p>
+                </div>
+                <div class="col-md-4 text-end">
+                    <div class="btn-group">
+                        <button class="btn btn-outline-secondary btn-sm">Reset Center</button>
+                        <button class="btn btn-outline-primary btn-sm">Auto-Calibrate</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

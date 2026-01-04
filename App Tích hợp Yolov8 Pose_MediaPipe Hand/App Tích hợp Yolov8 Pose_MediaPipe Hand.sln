@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App Tích hợp Yolov8 Pose_MediaPipe Hand", "App Tích hợp Yolov8 Pose_MediaPipe Hand\App Tích hợp Yolov8 Pose_MediaPipe Hand.csproj", "{8B54A51C-B486-4CAC-8E28-321EFB135047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B54A51C-B486-4CAC-8E28-321EFB135047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B54A51C-B486-4CAC-8E28-321EFB135047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B54A51C-B486-4CAC-8E28-321EFB135047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B54A51C-B486-4CAC-8E28-321EFB135047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87066AA5-88C5-4410-8E85-EB9391218CDF}
+	EndGlobalSection
+EndGlobal
