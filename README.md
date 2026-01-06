@@ -1,7 +1,7 @@
 # ASP.NET tích hợp YOLOv8 Pose And Mediapipe Hand
 
 ## Giới Thiệu
-Chào mừng bạn đến với Pose Detect và Hand Detect cho trò chơi Endless Run Game! Đây là website được xây dựng để giúp người chơi có thể điều khiển nhân vật trò chơi Subway Suffer nhảy cúi và qua trái qua phải. Và hiện tại chỉ có thể chơi Subway Suffer.
+Chào mừng bạn đến với Pose Detect và Hand Detect cho trò chơi Endless Run Game! Đây là website được xây dựng để giúp người chơi có thể điều khiển nhân vật trò chơi Subway Surfers nhảy cúi và qua trái qua phải. Và hiện tại chỉ có thể chơi Subway Surfers.
 
 ## Tính Năng Chính
 - **Phần camera tracking**: Tracking theo khung xương người dùng nếu là pose và tracking theo điểm giữa lòng bàn tay.
