@@ -22,7 +22,7 @@ Chào mừng bạn đến với Pose Detect và Hand Detect cho trò chơi Endle
 - Mở CMD tại thư mực Project chạy lệnh python app.py và mở thư mục App Tích hợp Yolov8 Pose_MediaPipe Hand trong VS Studio.
 - Chạy ứng dụng để vào Web sau đó chọn YOLOv8 Pose hoặc Mediapipe Hand để sử dụng.
 
-## 📞 Liên hệ
+## Thông tin liên hệ
 **Nguyễn Hoàng Phong**
 * **Email:** nguyenhoangphongsupham@gmail.com
 * **LinkedIn:** [Nguyễn Hoàng Phong](https://www.linkedin.com/in/fong62/)
